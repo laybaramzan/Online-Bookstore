@@ -54,6 +54,7 @@ const Reviews = () => {
                   marginLeft: "35%",
                   borderRadius: "35px",
                 }}
+                alt=""
               />
               <h2 class="fw-normal ">Heading</h2>
               <p className="text-black">
@@ -64,22 +65,27 @@ const Reviews = () => {
                 <img
                   src={star_icon}
                   style={{ height: "20px", width: "20px", marginLeft: "80px" }}
+                  alt=""
                 />
                 <img
                   src={star_icon}
                   style={{ height: "20px", width: "20px" }}
+                  alt=""
                 />
                 <img
                   src={star_icon}
                   style={{ height: "20px", width: "20px" }}
+                  alt=""
                 />
                 <img
                   src={star_icon}
                   style={{ height: "20px", width: "20px" }}
+                  alt=""
                 />
                 <img
                   src={star_dull_icon}
                   style={{ height: "20px", width: "20px" }}
+                  alt=""
                 />
               </div>
             </div>
@@ -95,6 +101,7 @@ const Reviews = () => {
                   marginLeft: "35%",
                   borderRadius: "35px",
                 }}
+                alt=""
               />
               <h2 class="fw-normal ">Heading</h2>
               <p className="text-black">
@@ -105,22 +112,27 @@ const Reviews = () => {
                 <img
                   src={star_icon}
                   style={{ height: "20px", width: "20px", marginLeft: "80px" }}
+                  alt=""
                 />
                 <img
                   src={star_icon}
                   style={{ height: "20px", width: "20px" }}
+                  alt=""
                 />
                 <img
                   src={star_icon}
                   style={{ height: "20px", width: "20px" }}
+                  alt=""
                 />
                 <img
                   src={star_icon}
                   style={{ height: "20px", width: "20px" }}
+                  alt=""
                 />
                 <img
                   src={star_dull_icon}
                   style={{ height: "20px", width: "20px" }}
+                  alt=""
                 />
               </div>
             </div>
@@ -136,6 +148,7 @@ const Reviews = () => {
                   marginLeft: "35%",
                   borderRadius: "35px",
                 }}
+                alt=""
               />
               <h2 class="fw-normal ">Heading</h2>
               <p className="text-black">
@@ -146,22 +159,27 @@ const Reviews = () => {
                 <img
                   src={star_icon}
                   style={{ height: "20px", width: "20px", marginLeft: "80px" }}
+                  alt=""
                 />
                 <img
                   src={star_icon}
                   style={{ height: "20px", width: "20px" }}
+                  alt=""
                 />
                 <img
                   src={star_icon}
                   style={{ height: "20px", width: "20px" }}
+                  alt=""
                 />
                 <img
                   src={star_icon}
                   style={{ height: "20px", width: "20px" }}
+                  alt=""
                 />
                 <img
                   src={star_dull_icon}
                   style={{ height: "20px", width: "20px" }}
+                  alt=""
                 />
               </div>
             </div>
@@ -177,6 +195,7 @@ const Reviews = () => {
                   marginLeft: "35%",
                   borderRadius: "35px",
                 }}
+                alt=""
               />
               <h2 class="fw-normal ">Heading</h2>
               <p className="text-black">
@@ -187,22 +206,27 @@ const Reviews = () => {
                 <img
                   src={star_icon}
                   style={{ height: "20px", width: "20px", marginLeft: "80px" }}
+                  alt=""
                 />
                 <img
                   src={star_icon}
                   style={{ height: "20px", width: "20px" }}
+                  alt=""
                 />
                 <img
                   src={star_icon}
                   style={{ height: "20px", width: "20px" }}
+                  alt=""
                 />
                 <img
                   src={star_icon}
                   style={{ height: "20px", width: "20px" }}
+                  alt=""
                 />
                 <img
                   src={star_dull_icon}
                   style={{ height: "20px", width: "20px" }}
+                  alt=""
                 />
               </div>
             </div>
@@ -218,6 +242,7 @@ const Reviews = () => {
                   marginLeft: "35%",
                   borderRadius: "35px",
                 }}
+                alt=""
               />
               <h2 class="fw-normal ">Heading</h2>
               <p className="text-black">
@@ -228,22 +253,27 @@ const Reviews = () => {
                 <img
                   src={star_icon}
                   style={{ height: "20px", width: "20px", marginLeft: "80px" }}
+                  alt=""
                 />
                 <img
                   src={star_icon}
                   style={{ height: "20px", width: "20px" }}
+                  alt=""
                 />
                 <img
                   src={star_icon}
                   style={{ height: "20px", width: "20px" }}
+                  alt=""
                 />
                 <img
                   src={star_icon}
                   style={{ height: "20px", width: "20px" }}
+                  alt=""
                 />
                 <img
                   src={star_dull_icon}
                   style={{ height: "20px", width: "20px" }}
+                  alt=""
                 />
               </div>
             </div>
@@ -259,6 +289,7 @@ const Reviews = () => {
                   marginLeft: "35%",
                   borderRadius: "35px",
                 }}
+                alt=""
               />
               <h2 class="fw-normal ">Heading</h2>
               <div className="text-black">
@@ -269,22 +300,27 @@ const Reviews = () => {
                 <img
                   src={star_icon}
                   style={{ height: "20px", width: "20px", marginLeft: "80px" }}
+                  alt=""
                 />
                 <img
                   src={star_icon}
                   style={{ height: "20px", width: "20px" }}
+                  alt=""
                 />
                 <img
                   src={star_icon}
                   style={{ height: "20px", width: "20px" }}
+                  alt=""
                 />
                 <img
                   src={star_icon}
                   style={{ height: "20px", width: "20px" }}
+                  alt=""
                 />
                 <img
                   src={star_dull_icon}
                   style={{ height: "20px", width: "20px" }}
+                  alt=""
                 />
               </div>
             </div>

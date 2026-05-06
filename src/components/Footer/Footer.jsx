@@ -15,6 +15,7 @@ const Footer = () => {
             maxWidth: "5%", // Ensure image resizes within parent container
             height: "60px", // Maintain aspect ratio
           }}
+          alt=""
         />
         <p className="pt-3" style={{fontSize:"30px",color:"orange"}}>SHOPPER</p>
       </div>
@@ -34,6 +35,7 @@ const Footer = () => {
               maxWidth: "30px", // Ensure image resizes within parent container
               height: "auto", // Maintain aspect ratio
             }}
+            alt=""
           />
         </div>
         <div className="footer-icon-container ps-3">
@@ -43,6 +45,7 @@ const Footer = () => {
               maxWidth: "30px", // Ensure image resizes within parent container
               height: "auto", // Maintain aspect ratio
             }}
+            alt=""
           />
         </div>
         <div className="footer-icon-container ps-3">
@@ -52,6 +55,7 @@ const Footer = () => {
               maxWidth: "30px", // Ensure image resizes within parent container
               height: "auto", // Maintain aspect ratio
             }}
+            alt=""
           />
         </div>
       </div>

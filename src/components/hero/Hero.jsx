@@ -38,16 +38,16 @@ const Hero = () => {
                 style={{ height: "auto", width: "260px", marginTop: "125px"  }}
               >
                 <SwiperSlide>
-                  <img src={headerBook1} />
+                  <img src={headerBook1} alt=""/>
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img src={headerBook2} />
+                  <img src={headerBook2} alt=""/>
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img src={headerBook3} />
+                  <img src={headerBook3} alt=""/>
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img src={headerBook4} />
+                  <img src={headerBook4} alt=""/>
                 </SwiperSlide>
               </Swiper>
             </div>
