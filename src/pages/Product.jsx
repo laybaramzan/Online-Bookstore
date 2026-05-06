@@ -1,4 +1,4 @@
-import React, { useContext, useLayoutEffect } from "react";
+import  { useContext, useLayoutEffect } from "react";
 import { ShopContext } from "../context/ShopContext";
 import { useLocation } from "react-router-dom";
 import Item from "../components/item/item";

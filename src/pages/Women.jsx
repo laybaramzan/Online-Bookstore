@@ -1,7 +1,7 @@
-import React, { useContext, useEffect } from "react";
-import dropdown_icon from "../components/assets/dropdown_icon.png";
+import  { useContext, useEffect } from "react";
+
 import { ShopContext } from "../context/ShopContext";
-import ShopCategory from "./ShopCategory";
+
 import Item from "../components/item/item";
 
 export default function Women(props) {
@@ -9,11 +9,11 @@ export default function Women(props) {
   useEffect(() => {
     setType("women");
     document.title = "Women";
-  }, []);
+  }, [setType]);
   return (
     <div className="bg-white">
     <div className="container">
-      <img src={props.banner} style={{height:"240px",width:"100%"}}/>
+      <img src={props.banner} style={{height:"240px",width:"100%"}} alt=""/>
       {/* <div className="shopcategory-indexsort">
         <p>
           <span>showing 1-12</span>out of 36 products

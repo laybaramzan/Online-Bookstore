@@ -1,4 +1,4 @@
-import React from 'react';
+
 import './CSS/About.css';
 import johnDoe from '../components/assets/person4.jpg';
 import janeSmith from '../components/assets/person2.jpg';

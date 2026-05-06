@@ -1,6 +1,6 @@
 
 import "./CSS/sale.css";
-import React, { useContext } from "react";
+import  { useContext } from "react";
 import new_collection from "../components/assets/new_collections";
 import Item from "../components/item/item";
 import { ShopContext } from "../context/ShopContext";

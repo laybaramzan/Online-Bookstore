@@ -1,7 +1,6 @@
-import React, { useContext, useEffect } from "react";
+import { useContext, useEffect } from "react";
 import { ShopContext } from "../context/ShopContext";
-import ShopCategory from "./ShopCategory";
-import dropdown_icon from "../components/assets/dropdown_icon.png";
+
 import Item from "../components/item/item";
 
 const Kids = (props) => {
@@ -9,11 +8,11 @@ const Kids = (props) => {
   useEffect(() => {
     setType("kid");
     document.title = "Kids";
-  }, []);
+  }, [setType]);
   return (
     <div className="bg-white">
     <div className="container">
-      <img src={props.banner} style={{height:"240px",width:"100%"}}/>
+      <img src={props.banner} style={{height:"240px",width:"100%"}} alt=""/>
       {/* <div className="shopcategory-indexsort">
         <p>
           <span>showing 1-12</span>out of 36 products
