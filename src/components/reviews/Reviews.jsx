@@ -1,4 +1,4 @@
-import React from "react";
+
 import "./reviews.css";
 import { Swiper, SwiperSlide } from "swiper/react";
 import person1 from "../assets/person2.jpg";

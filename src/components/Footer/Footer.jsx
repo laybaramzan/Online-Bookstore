@@ -1,4 +1,4 @@
-import React from "react";
+
 import footer_logo from "../assets/logo_big.png";
 import instagram_icon from "../assets/instagram_icon.png";
 import pinterest_icon from "../assets/pintester_icon.png";

@@ -1,4 +1,4 @@
-import React, { useContext } from "react";
+import  { useContext } from "react";
 import "./NewCollections.css";
 import new_collection from "../assets/new_collections";
 import Item from "../item/item";

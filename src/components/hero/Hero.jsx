@@ -1,4 +1,4 @@
-import React from "react";
+
 import "./hero.css";
 import headerBook1 from "../assets/headerBook1.png";
 import headerBook2 from "../assets/headerBook2.png";
